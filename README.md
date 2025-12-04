@@ -1,4 +1,5 @@
 # Project
 This is my first git repository
 <br>
-Author Rammilan Lodhi
+Author (Rammilan Rajpoot)
+
